@@ -1,0 +1,6 @@
+{
+  "name": "Shareguru",
+  "description": "Free & independent peer-to-peer (P2P) file sharing service. Zero online storage, end-to-end encrypted, no file size limits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
